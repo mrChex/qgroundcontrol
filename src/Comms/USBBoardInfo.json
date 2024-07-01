@@ -29,6 +29,7 @@
         { "vendorID":12642, "productID": 80,        "boardClass": "Pixhawk",    "name": "Holybro Kakute Flight Controller" },
         { "vendorID": 4104, "productID": 1,         "boardClass": "Pixhawk",    "name": "PX4 FMU UVify Core" },
         { "vendorID": 12643, "productID": 76,       "boardClass": "Pixhawk",    "name": "CUAV Flight Controller" },
+        { "vendorID": 1155, "productID": 1013,        "boardClass": "Pixhawk",    "name": "Matek H743 Wing" },
         { "vendorID": 1155, "productID": 55,        "boardClass": "Pixhawk",    "name": "PX4 FMU SmartAP AIRLink" },
         { "vendorID": 12677, "productID": 57,       "boardClass": "Pixhawk",    "name": "ARK FMU V6X" },
 
